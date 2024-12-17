@@ -1,0 +1,23 @@
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin kalkulaator\bin\Debug\Bitcoin kalkulaator.exe.config
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin kalkulaator\bin\Debug\Bitcoin kalkulaator.exe
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin kalkulaator\bin\Debug\Bitcoin kalkulaator.pdb
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin kalkulaator.csproj.AssemblyReference.cache
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin_kalkulaator.Form1.resources
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin_kalkulaator.Properties.Resources.resources
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin kalkulaator.csproj.GenerateResource.cache
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin kalkulaator.csproj.CoreCompileInputs.cache
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin kalkulaator.exe
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin kalkulaator.pdb
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin-kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin kalkulaator.csproj.AssemblyReference.cache
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin-kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin_kalkulaator.Form1.resources
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin-kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin_kalkulaator.Properties.Resources.resources
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin-kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin kalkulaator.csproj.GenerateResource.cache
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin-kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin kalkulaator.csproj.CoreCompileInputs.cache
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin-kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin kalkulaator.exe
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin-kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin kalkulaator.pdb
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin-kalkulaator\Bitcoin kalkulaator\bin\Debug\Bitcoin kalkulaator.exe.config
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin-kalkulaator\Bitcoin kalkulaator\bin\Debug\Bitcoin kalkulaator.exe
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin-kalkulaator\Bitcoin kalkulaator\bin\Debug\Bitcoin kalkulaator.pdb
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin-kalkulaator\Bitcoin kalkulaator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin-kalkulaator\Bitcoin kalkulaator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karlv\source\repos\Bitcoin kalkulaator\Bitcoin-kalkulaator\Bitcoin kalkulaator\obj\Debug\Bitcoin .E9B6E592.Up2Date

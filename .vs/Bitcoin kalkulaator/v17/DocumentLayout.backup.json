@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karlv\\source\\repos\\Bitcoin kalkulaator\\Bitcoin-kalkulaator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{906EE403-8D3D-4BF9-B93A-858D74FCD8DB}|Bitcoin kalkulaator\\Bitcoin kalkulaator.csproj|c:\\users\\karlv\\source\\repos\\bitcoin kalkulaator\\bitcoin-kalkulaator\\bitcoin kalkulaator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906EE403-8D3D-4BF9-B93A-858D74FCD8DB}|Bitcoin kalkulaator\\Bitcoin kalkulaator.csproj|solutionrelative:bitcoin kalkulaator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906EE403-8D3D-4BF9-B93A-858D74FCD8DB}|Bitcoin kalkulaator\\Bitcoin kalkulaator.csproj|C:\\Users\\karlv\\source\\repos\\Bitcoin kalkulaator\\Bitcoin-kalkulaator\\bitcoin kalkulaator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{906EE403-8D3D-4BF9-B93A-858D74FCD8DB}|Bitcoin kalkulaator\\Bitcoin kalkulaator.csproj|solutionrelative:bitcoin kalkulaator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906EE403-8D3D-4BF9-B93A-858D74FCD8DB}|Bitcoin kalkulaator\\Bitcoin kalkulaator.csproj|C:\\Users\\karlv\\source\\repos\\Bitcoin kalkulaator\\Bitcoin-kalkulaator\\bitcoin kalkulaator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906EE403-8D3D-4BF9-B93A-858D74FCD8DB}|Bitcoin kalkulaator\\Bitcoin kalkulaator.csproj|solutionrelative:bitcoin kalkulaator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906EE403-8D3D-4BF9-B93A-858D74FCD8DB}|Bitcoin kalkulaator\\Bitcoin kalkulaator.csproj|C:\\Users\\karlv\\source\\repos\\Bitcoin kalkulaator\\Bitcoin-kalkulaator\\bitcoin kalkulaator\\bitcoinrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906EE403-8D3D-4BF9-B93A-858D74FCD8DB}|Bitcoin kalkulaator\\Bitcoin kalkulaator.csproj|solutionrelative:bitcoin kalkulaator\\bitcoinrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\karlv\\source\\repos\\Bitcoin kalkulaator\\Bitcoin-kalkulaator\\Bitcoin kalkulaator\\Form1.cs",
+              "RelativeDocumentMoniker": "Bitcoin kalkulaator\\Form1.cs",
+              "ToolTip": "C:\\Users\\karlv\\source\\repos\\Bitcoin kalkulaator\\Bitcoin-kalkulaator\\Bitcoin kalkulaator\\Form1.cs*",
+              "RelativeToolTip": "Bitcoin kalkulaator\\Form1.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:45:14.65Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BitcoinRates.cs",
+              "DocumentMoniker": "C:\\Users\\karlv\\source\\repos\\Bitcoin kalkulaator\\Bitcoin-kalkulaator\\Bitcoin kalkulaator\\BitcoinRates.cs",
+              "RelativeDocumentMoniker": "Bitcoin kalkulaator\\BitcoinRates.cs",
+              "ToolTip": "C:\\Users\\karlv\\source\\repos\\Bitcoin kalkulaator\\Bitcoin-kalkulaator\\Bitcoin kalkulaator\\BitcoinRates.cs",
+              "RelativeToolTip": "Bitcoin kalkulaator\\BitcoinRates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:28:19.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karlv\\source\\repos\\Bitcoin kalkulaator\\Bitcoin-kalkulaator\\Bitcoin kalkulaator\\Form1.cs",
+              "RelativeDocumentMoniker": "Bitcoin kalkulaator\\Form1.cs",
+              "ToolTip": "C:\\Users\\karlv\\source\\repos\\Bitcoin kalkulaator\\Bitcoin-kalkulaator\\Bitcoin kalkulaator\\Form1.cs [Design]*",
+              "RelativeToolTip": "Bitcoin kalkulaator\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:19:22.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\karlv\\source\\repos\\Bitcoin kalkulaator\\Bitcoin-kalkulaator\\Bitcoin kalkulaator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bitcoin kalkulaator\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\karlv\\source\\repos\\Bitcoin kalkulaator\\Bitcoin-kalkulaator\\Bitcoin kalkulaator\\Form1.Designer.cs",
+              "RelativeToolTip": "Bitcoin kalkulaator\\Form1.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:27:57.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
